@@ -1,6 +1,6 @@
 <!-- Animated header -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=600&lines=Heyo+%F0%9F%91%8B+It's+Devesh!;Welcome+to+my+GitHub!;Let's+build+something+cool!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=600&lines=Heyo+%F0%9F%91%8B+It's+Devesh!;Welcome+to+my+GitHub!;!" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -15,14 +15,15 @@
   <img align="right" src="https://api.daily.dev/devcards/v2/q3gljVdgInD5S6NNc6WLQ.png?r=53c" width="220" alt="DEVESH KUMAR's Dev Card"/>
 </a>
 
-- 🌱 I'm currently working on developing **coding skills**
-- 🎯 I'm currently focusing on **DevOps**
-- 👯 I'm looking to collaborate on **Github**
-- 🥅 2025 Goals: Be a better human
-- 💬 Ask me about anything
-- 📫 How to reach me: **iamdeveshk@gmail.com**
-- 🏅 I try to: Go beyond and push the bounds
-- ⚡ Oneday I will make it happen
+* 🌱 Currently learning and building projects in **Data Science, Machine Learning, AI and tons of Mathematics**
+* ☁️ AWS Student Builder Leader passionate about **Cloud + AI**
+* 📊 Founder & Community Lead of **N8N Data Science Community**
+* 🤝 Open to collaborating on **Data Science, AI, and Open-Source Projects**
+* 🎯 2026 Goals: Not get replaced by AI!
+* 💬 Ask me about **Python, Data Science, Machine Learning, Cloud,Community Building and myself too :)**
+* 📫 Reach me at: **[kumardevesh0108@gmail.com](mailto:kumardevesh0108@gmail.com)**
+* 🏅 Belief: Growth begins when you put night filters on the screen!
+* ⚡ Dreaming hard, building consistently, and making it happen one thing at a time
 
 ---
 
@@ -62,7 +63,7 @@
 
 ---
 
-<p align="center">Show some ❤️ by starring some of the repositories!</p>
+<p align="center">Show some ❤️ by starring some of the repositories!:)</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=iamdeveshk&label=Profile+Views&color=a855f7&style=flat" alt="Profile Views"/>
