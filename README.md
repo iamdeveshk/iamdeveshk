@@ -6,7 +6,7 @@
 
 ---
 
-<img align="right" alt="Devesh's Dev Card" src=<a href="https://app.daily.dev/iamdeveshk"><img src="https://api.daily.dev/devcards/v2/q3gljVdgInD5S6NNc6WLQ.png?r=53c" width="356" alt="DEVESH KUMAR's Dev Card"/></a> />
+<a href="https://app.daily.dev/iamdeveshk" align="right"><img align="right" src="https://api.daily.dev/devcards/v2/q3gljVdgInD5S6NNc6WLQ.png?r=53c" width="220" alt="DEVESH KUMAR's Dev Card"/></a>
 
 - 🌱 I'm currently working on developing **coding skills**
 - 🎯 I'm currently focusing on **DevOps**
