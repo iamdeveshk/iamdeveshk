@@ -1,16 +1,18 @@
 <div align="center">
 
-<!-- Animated Hello Banner -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Devesh+Kumar+👋;Math+%2B+Data+Science+%2B+AI+🚀;Building+the+future+with+data+✨" alt="Typing SVG" />
+<!-- Animated waving hand header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,100:7B2FBE&height=140&section=header&text=&fontSize=0" />
 
-<br/>
+<h1>
+  Heyo
+  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="38px" height="38px" />
+  It's Devesh!
+</h1>
 
-<!-- Animated wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,100:7B2FBE&height=120&section=header&text=&fontSize=0" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Mathematics+%26+Data+Science+Student+📐;AWS+Student+Builder+Leader+☁️;Google+Gemini+Ambassador+🤖;Building+AI+products+%26+communities+🚀" alt="Typing SVG" />
 
-<br/>
+<br/><br/>
 
-<!-- Badges -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iamdeveshk)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
@@ -26,7 +28,7 @@
 devesh = {
     "education"  : "BS-MS Mathematics & Data Science @ HBTU Kanpur",
     "roles"      : ["AWS Student Builder Leader", "Google Gemini Ambassador",
-                    "N8N Data Science Community — Founder"],
+                    "N8N Data Science Community — Founder & Lead"],
     "interests"  : ["Machine Learning", "Deep Learning", "Generative AI",
                     "Agentic AI", "Cloud Computing", "Data Engineering"],
     "mission"    : "Build impactful AI products & grow student tech communities",
@@ -101,7 +103,6 @@ Agentic AI           █████░░░░░░░   45%
 
 ---
 
-<!-- Animated footer wave -->
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7B2FBE,100:00D4FF&height=100&section=footer" />
