@@ -1,112 +1,56 @@
-<div align="center">
+<h1 align="center">Heyo 👋 It's Aniket!</h1>
 
-<!-- Animated waving hand header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,100:7B2FBE&height=140&section=header&text=&fontSize=0" />
-
-<h1>
-  Heyo
-  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="38px" height="38px" />
-  It's Devesh!
-</h1>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Mathematics+%26+Data+Science+Student+📐;AWS+Student+Builder+Leader+☁️;Google+Gemini+Ambassador+🤖;Building+AI+products+%26+communities+🚀" alt="Typing SVG" />
-
-<br/><br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iamdeveshk)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
-[![Profile Views](https://komarev.com/ghpvc/?username=iamdeveshk&label=Profile+Views&color=00D4FF&style=for-the-badge)](https://github.com/iamdeveshk)
-
-</div>
+<p align="center">
+  <a href="https://github.com/Aniket762"><img src="https://img.shields.io/github/followers/Aniket762?label=Follow&style=social" alt="GitHub Followers"/></a>
+</p>
 
 ---
 
-## 🧠 About Me
+<img align="right" alt="Aniket's Dev Card" src="https://api.daily.dev/devcards/dce00e048ea44002aab63d9733ee09f5.png?r=kdk" width="220" />
 
-```python
-devesh = {
-    "education"  : "BS-MS Mathematics & Data Science @ HBTU Kanpur",
-    "roles"      : ["AWS Student Builder Leader", "Google Gemini Ambassador",
-                    "N8N Data Science Community — Founder & Lead"],
-    "interests"  : ["Machine Learning", "Deep Learning", "Generative AI",
-                    "Agentic AI", "Cloud Computing", "Data Engineering"],
-    "mission"    : "Build impactful AI products & grow student tech communities",
-    "2026_goals" : ["GATE DA", "ML/AI Internship", "Open Source", "AI Products"]
-}
-```
+- 🌱 I'm currently working on developing **coding skills**
+- 🎯 I'm currently focusing on **DevOps**
+- 👯 I'm looking to collaborate on **Github**
+- 🥅 2021 Goals: Be a better human
+- 💬 Ask me about anything
+- 📫 How to reach me: **aniketindian8@gmail.com**
+- 🏅 I try to: Go beyond and push the bounds
+- ⚡ Oneday I will make it happen
 
 ---
 
-## 🛠️ Tech Stack
+### Connect with me:
 
-<div align="center">
-<img src="https://skillicons.dev/icons?i=python,r,mysql,aws,tensorflow,pytorch,git,github,linux,vscode" />
-</div>
-
----
-
-## 📊 Skill Radar
-
-```text
-Python & SQL         ████████████  100%
-Data Analysis        ███████████░   95%
-Machine Learning     █████████░░░   85%
-Deep Learning        ███████░░░░░   65%
-AWS Cloud            ███████░░░░░   60%
-Generative AI        ██████░░░░░░   55%
-Agentic AI           █████░░░░░░░   45%
-```
-
----
-
-## 🚀 Featured Projects
-
-| Project | Tech | Highlights |
-|---|---|---|
-| 📊 **Internshala Scraper** | Python, EDA | Scraped & analyzed 1000s of internships across India |
-| 🍽️ **Zomato SQL Case Study** | SQL, BI | Customer analytics, revenue insights dashboard |
-| 📰 **Fake News Detector** | NLP, ML | Text classification with accuracy benchmarking |
-| 📈 **Data Science Dashboards** | Power BI | KPI monitoring & interactive visual reporting |
+<p align="left">
+  <a href="https://github.com/Aniket762" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://linkedin.com/in/aniketpal762" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://facebook.com/aniketpal762" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+  </a>
+  <a href="https://instagram.com/aniket762" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://twitter.com/itzaniket762" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
+</p>
 
 ---
 
-## 🌍 Leadership
+### 📊 GitHub Stats:
 
-**🔷 N8N Data Science Community** — *Founder & Lead*
-> Student-led AI/DS ecosystem · Workshops · Project-based learning · Industry mentorship
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aniket762&theme=dark&hide_border=true" alt="GitHub Streak Stats" />
+</p>
 
-**☁️ AWS Student Builder Program** — *Leader*
-> Cloud awareness sessions · Student community building
-
-**🤖 Google Gemini Ambassador**
-> AI literacy · GenAI exploration · Learning initiatives
-
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=iamdeveshk&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamdeveshk&layout=compact&theme=tokyonight&hide_border=true"/>
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=iamdeveshk&theme=tokyonight&hide_border=true" />
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=iamdeveshk&theme=tokyonight&no-frame=true&row=1&column=6" />
-
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Aniket762&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Aniket's GitHub Stats" />
+</p>
 
 ---
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7B2FBE,100:00D4FF&height=100&section=footer" />
-
-*⚡ Mathematics in Mind • Code in Hand • AI in Sight ⚡*
-
-</div>
+<p align="center">Show some ❤️ by starring some of the repositories!</p>
